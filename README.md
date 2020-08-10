@@ -1,1 +1,1 @@
-# music-engine
+# a collection of React projects
