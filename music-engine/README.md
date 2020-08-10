@@ -1,7 +1,7 @@
 # Music engine
 
 ## Overview
-This React App is a search engine of music artists. It takes users' request, and returns basic information of artists and most popular tracks. All data is extracted from Spotify via API.
+This React App is a search engine of music artists. It allows users to specify an artist, and then returns basic information of the artist and his/her most popular tracks. All data is extracted from Spotify via a wrapped API.
 
 ## Setup
 In the folder of `music-engine`, 
